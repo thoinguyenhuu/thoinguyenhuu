@@ -44,16 +44,22 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thoinguyenhuu&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thoinguyenhuu&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thoinguyenhuu&show_icons=true&theme=github_dark&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thoinguyenhuu&layout=compact&theme=github_dark&hide_border=true"
+    height="170"
+  />
 </p>
+
 
 ---
 
 ## 🚀 About Me
 - 🎓 Software Engineering student  
 - 💡 Interested in **Backend Architecture**, **RESTful APIs**, **Databases**
-- 🔍 Currently learning **System Design & Clean Architecture**
 - 📫 Reach me: **thoinguyenhuu**
 
 ---
