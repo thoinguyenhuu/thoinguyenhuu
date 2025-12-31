@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Thoi Nguyen</h1>
-<h3 align="center">Backend Developer | Software Engineering Student</h3>
+<h3 align="center">Backend Developer | Computer Science Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+Developer;Node.js+%7C+Express+API;Database+Design+%26+System+Architecture;Always+learning+new+things" />
@@ -12,7 +12,7 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -41,24 +41,21 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity Graph
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thoinguyenhuu&show_icons=true&theme=github_dark&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thoinguyenhuu&layout=compact&theme=github_dark&hide_border=true"
-    height="170"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thoinguyenhuu&theme=github-dark&hide_border=true" />
 </p>
+
+
+
+
 
 
 ---
 
 ## 🚀 About Me
-- 🎓 Software Engineering student  
+- 🎓 Computer Science student  
 - 💡 Interested in **Backend Architecture**, **RESTful APIs**, **Databases**
 - 📫 Reach me: **thoinguyenhuu**
 
