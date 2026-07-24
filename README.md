@@ -25,7 +25,7 @@
       <ul>
         <li>💼 GitHub: <a href="https://github.com/thoinguyenhuu">@thoinguyenhuu</a></li>
         <li>✉️ Email: <a href="mailto:thoinguyenhuu@gmail.com">thoinguyenhuu@gmail.com</a></li>
-        <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/thoinguyenhuu/">Thời Nguyễn Hữu</a></li>
+        <!-- <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/thoinguyenhuu/">Thời Nguyễn Hữu</a></li> -->
       </ul>
     </td>
   </tr>
